@@ -1,0 +1,30 @@
+
+
+  .resource-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+    background-color: #eee;
+  }
+  .resource-container {
+    width: 90%;
+    height: 100%;
+    border-radius: 0.75rem;
+    background-color: rgb(252, 252, 252);
+    padding: 3rem;
+    color: rgb(126, 126, 126);
+    margin: 10px;
+  }
+  
+
+  .bottom {
+    display: flex;
+    justify-content: center;
+  }
+  .add-new-resource {
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 10px;
+  }

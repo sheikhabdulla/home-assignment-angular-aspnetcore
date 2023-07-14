@@ -1,0 +1,135 @@
+E:\net tests\gomomentus\bin\Debug\net6.0\appsettings.Development.json
+E:\net tests\gomomentus\bin\Debug\net6.0\appsettings.json
+E:\net tests\gomomentus\bin\Debug\net6.0\gomomentus.exe
+E:\net tests\gomomentus\bin\Debug\net6.0\gomomentus.deps.json
+E:\net tests\gomomentus\bin\Debug\net6.0\gomomentus.runtimeconfig.json
+E:\net tests\gomomentus\bin\Debug\net6.0\gomomentus.dll
+E:\net tests\gomomentus\bin\Debug\net6.0\gomomentus.pdb
+E:\net tests\gomomentus\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\net tests\gomomentus\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\net tests\gomomentus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\net tests\gomomentus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.csproj.AssemblyReference.cache
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.GeneratedMSBuildEditorConfig.editorconfig
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.AssemblyInfoInputs.cache
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.AssemblyInfo.cs
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.csproj.CoreCompileInputs.cache
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.MvcApplicationPartsAssemblyInfo.cs
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.MvcApplicationPartsAssemblyInfo.cache
+E:\net tests\gomomentus\obj\Debug\net6.0\staticwebassets\msbuild.gomomentus.Microsoft.AspNetCore.StaticWebAssets.props
+E:\net tests\gomomentus\obj\Debug\net6.0\staticwebassets\msbuild.build.gomomentus.props
+E:\net tests\gomomentus\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gomomentus.props
+E:\net tests\gomomentus\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gomomentus.props
+E:\net tests\gomomentus\obj\Debug\net6.0\staticwebassets.pack.json
+E:\net tests\gomomentus\obj\Debug\net6.0\staticwebassets.build.json
+E:\net tests\gomomentus\obj\Debug\net6.0\staticwebassets.development.json
+E:\net tests\gomomentus\obj\Debug\net6.0\scopedcss\bundle\gomomentus.styles.css
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.csproj.CopyComplete
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.dll
+E:\net tests\gomomentus\obj\Debug\net6.0\refint\gomomentus.dll
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.pdb
+E:\net tests\gomomentus\obj\Debug\net6.0\gomomentus.genruntimeconfig.cache
+E:\net tests\gomomentus\obj\Debug\net6.0\ref\gomomentus.dll
+E:\net tests\gomomentus\bin\Debug\net6.0\Resourses\comments.json
+E:\net tests\gomomentus\bin\Debug\net6.0\Resourses\posts.json
+E:\net tests\gomomentus\bin\Debug\net6.0\Resourses\users.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\appsettings.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\Resourses\comments.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\Resourses\posts.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\Resourses\users.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\gomomentus.exe
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\gomomentus.deps.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\gomomentus.runtimeconfig.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\gomomentus.dll
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\gomomentus.pdb
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dev\Downloads\gomomentus\gomomentus\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.csproj.AssemblyReference.cache
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.AssemblyInfoInputs.cache
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.AssemblyInfo.cs
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\scopedcss\bundle\gomomentus.styles.css
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.csproj.CopyComplete
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.dll
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\refint\gomomentus.dll
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.pdb
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\gomomentus.genruntimeconfig.cache
+C:\Users\Dev\Downloads\gomomentus\gomomentus\obj\Debug\net6.0\ref\gomomentus.dll
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\Resourses\comments.json
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\Resourses\posts.json
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\Resourses\users.json
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\gomomentus.exe
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\gomomentus.deps.json
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\gomomentus.runtimeconfig.json
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\gomomentus.dll
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\gomomentus.pdb
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dev\Downloads\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.csproj.AssemblyReference.cache
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.AssemblyInfoInputs.cache
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.AssemblyInfo.cs
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\staticwebassets\msbuild.gomomentus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\staticwebassets\msbuild.build.gomomentus.props
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gomomentus.props
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gomomentus.props
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\scopedcss\bundle\gomomentus.styles.css
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.csproj.CopyComplete
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.dll
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\refint\gomomentus.dll
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.pdb
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\gomomentus.genruntimeconfig.cache
+C:\Users\Dev\Downloads\backend\obj\Debug\net6.0\ref\gomomentus.dll
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\Resourses\comments.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\Resourses\posts.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\Resourses\users.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\gomomentus.exe
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\gomomentus.deps.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\gomomentus.runtimeconfig.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\gomomentus.dll
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\gomomentus.pdb
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.csproj.AssemblyReference.cache
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.AssemblyInfoInputs.cache
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.AssemblyInfo.cs
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\staticwebassets\msbuild.gomomentus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\staticwebassets\msbuild.build.gomomentus.props
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gomomentus.props
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gomomentus.props
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\scopedcss\bundle\gomomentus.styles.css
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.csproj.CopyComplete
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.dll
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\refint\gomomentus.dll
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.pdb
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\gomomentus.genruntimeconfig.cache
+C:\Users\Dev\Downloads\home-assignment-angular-aspnetcore\backend\obj\Debug\net6.0\ref\gomomentus.dll
